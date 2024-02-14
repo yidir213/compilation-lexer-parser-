@@ -1,0 +1,21 @@
+LANGAGE MiniAlgo
+
+
+VAR
+x: CONST INT;
+
+
+INT Function example
+VAR
+ n:CONST INT;
+
+BEGIN
+ Return c;
+END
+
+BEGIN
+
+{this is a comment}
+
+END
+
